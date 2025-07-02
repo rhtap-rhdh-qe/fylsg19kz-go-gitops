@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fylsg19kz-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fylsg19kz-go
